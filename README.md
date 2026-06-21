@@ -16,9 +16,10 @@ I expect that your `.AppImage` software appeared in `/home/username/Downloads` d
 ```bash
 wget https://github.com/imputnet/helium/blob/main/resources/branding/app_icon/raw.png
 ```
-name the image from `raw.png` to `helium.png`. Ensure to keep the image and `AppImage` inside the `helium` directory. The ultimate directory path would be something like 
+name the image from `raw.png` to `helium.png`. Ensure to keep the image and `AppImage` inside the `helium` directory. The ultimate directory path and structure would be something like this way
 ```bash
 /home/username/Downloads/Software/helium
+
 Downloads/
 ├── Software/
 │   └── helium/
