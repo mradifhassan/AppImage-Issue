@@ -11,11 +11,11 @@ Go to the official site of helium (https://helium.computer/) and then install
 ```bash
 https://github.com/imputnet/helium-linux/releases/download/0.13.4.1/helium-0.13.4.1-x86_64.AppImage
 ```
-After installation, give it permission to execute running
+After installation, give it permission to execute by running-
 ```bash
 chmod +x helium-0.13.4.1-x86_64.AppImage
 ```
-And now execture by
+And now execture by-
 ```bash
 ./helium-0.13.4.1-x86_64.AppImage
 ```
