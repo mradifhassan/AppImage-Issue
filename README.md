@@ -1,11 +1,11 @@
 # How to setup desktop icon and other necessary stuff in Ubuntu if it doesn't appear properly
 
 ## Features
-* **Name changing
-* **Icon changing
+* Name changing
+* Icon changing
 
 ## How to use
-I'll walk through a demonstration by installing and setting up `helium` browser.
+I'll walk you through a demonstration by installing and setting up `helium` browser.
 ### Step 0: Software installation
 Go to the official site of helium (https://helium.computer/) and then install
 ```bash
@@ -23,7 +23,7 @@ Downloads/
 ├── Software/
 │   └── helium/
 │       └── helium-0.13.4.1-x86_64.AppImage
-|       └── helium.png
+        └── helium.png
 ```
 
 ### Step 2: Configuration
