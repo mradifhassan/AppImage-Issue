@@ -11,6 +11,15 @@ Go to the official site of helium (https://helium.computer/) and then install
 ```bash
 https://github.com/imputnet/helium-linux/releases/download/0.13.4.1/helium-0.13.4.1-x86_64.AppImage
 ```
+After installation, give it permission to execute running
+```bash
+chmod +x helium-0.13.4.1-x86_64.AppImage
+```
+And now execture by
+```bash
+./helium-0.13.4.1-x86_64.AppImage
+```
+Now you can see only a gear icon is visible and that's why we need to setup manually to resolve the issue.
 ### Step 1: Directory Setup
 I expect that your `.AppImage` software appeared in `/home/username/Downloads` directory. If so, then create new directory labeling as `Software` and then create a directory again named `helium`. Now move the `.AppImage` file into `helium` directory. Now download helium browser icon-
 ```bash
